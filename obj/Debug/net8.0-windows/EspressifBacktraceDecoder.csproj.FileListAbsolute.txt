@@ -1,0 +1,17 @@
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\bin\Debug\net8.0-windows\EspressifBacktraceDecoder.exe
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\bin\Debug\net8.0-windows\EspressifBacktraceDecoder.deps.json
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\bin\Debug\net8.0-windows\EspressifBacktraceDecoder.runtimeconfig.json
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\bin\Debug\net8.0-windows\EspressifBacktraceDecoder.dll
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\bin\Debug\net8.0-windows\EspressifBacktraceDecoder.pdb
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\obj\Debug\net8.0-windows\EspressifBacktraceDecoder.MainWindow.resources
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\obj\Debug\net8.0-windows\EspressifBacktraceDecoder.csproj.GenerateResource.cache
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\obj\Debug\net8.0-windows\EspressifBacktraceDecoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\obj\Debug\net8.0-windows\EspressifBacktraceDecoder.AssemblyInfoInputs.cache
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\obj\Debug\net8.0-windows\EspressifBacktraceDecoder.AssemblyInfo.cs
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\obj\Debug\net8.0-windows\EspressifBacktraceDecoder.csproj.CoreCompileInputs.cache
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\obj\Debug\net8.0-windows\EspressifBacktraceDecoder.dll
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\obj\Debug\net8.0-windows\refint\EspressifBacktraceDecoder.dll
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\obj\Debug\net8.0-windows\EspressifBacktraceDecoder.pdb
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\obj\Debug\net8.0-windows\EspressifBacktraceDecoder.genruntimeconfig.cache
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\obj\Debug\net8.0-windows\ref\EspressifBacktraceDecoder.dll
+C:\Users\AndrePeschyras\source\repos\EspressifBacktraceDecoder\bin\Debug\net8.0-windows\EspressifBacktraceDecoder.dll.config

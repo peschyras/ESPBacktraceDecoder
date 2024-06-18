@@ -3,6 +3,9 @@ A small GUI for the Espressif tool addr2Line to decode backtraces.
 
 This tool uses the programm "xtensa-esp32-elf-addr2line" frome the ESP-IDF toolbox to decode a back trace into human readable stack trace.
 
+![image](https://github.com/peschyras/ESPBacktraceDecoder/assets/124285103/8c790048-431c-4102-ad67-6e8626b16fae)
+
+
 The command behind this GUI is: 
 ```
 xtensa-esp32-elf-addr2line -pfiaC -e build/PROJECT.elf ADDRESS

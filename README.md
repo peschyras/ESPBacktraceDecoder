@@ -5,6 +5,10 @@ This tool uses the programm "xtensa-esp32-elf-addr2line" frome the ESP-IDF toolb
 
 ![image](https://github.com/peschyras/ESPBacktraceDecoder/assets/124285103/8c790048-431c-4102-ad67-6e8626b16fae)
 
+How to Use:
+1. Open a firmware.elf file by clicking on the button "Select Firmware"
+2. Paste a backtrace into the textbox.
+3. Click "Decode"
 
 The command behind this GUI is: 
 ```

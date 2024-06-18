@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U3GoVPueE0uXC6oLqOtePe6AJqXd0lI76YH/5f/jtEaOZ2IY/IpCTSBwMQ+wEeAcnwufHkV1Vte3MsqcnlLWQg==",
+  "dgSpecHash": "7KzBuJbX1jE+FwI0wDRjWiSeH4Zk9XzT3Nui9Efm49wm/hNTk8JLRztu21ZpIahA0/eMWMhUVP74NQeotdCbEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AndrePeschyras\\source\\repos\\EspressifBacktraceDecoder\\EspressifBacktraceDecoder.csproj",
+  "projectFilePath": "C:\\Users\\AndrePeschyras\\source\\repos\\ESPBacktraceDecoder\\EspressifBacktraceDecoder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
